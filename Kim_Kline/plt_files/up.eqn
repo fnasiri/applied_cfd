@@ -1,0 +1,5 @@
+#!MC 1410
+$!ALTERDATA 
+  EQUATION = '{yp}=({CoordinateY}-1)*0.04644*5100'
+$!ALTERDATA 
+  EQUATION = '{up}={X Component Velocity Dataset:V.[X].N 1 1 0}/0.04644'

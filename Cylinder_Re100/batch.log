@@ -1,0 +1,357 @@
+Tecplot 2017.2.0.81430 Batch Log
+ACTION: PAGECONTROL: CREATE
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: LOADADDON
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0010.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0020.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0030.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0040.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0050.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0060.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0070.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0080.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0090.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0100.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0110.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0120.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0130.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0140.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0150.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0160.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0170.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0180.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0190.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0200.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0210.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0220.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0230.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0240.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0250.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0260.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0270.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0280.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0290.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0300.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0310.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0320.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0330.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0340.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0350.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0360.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0370.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0380.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0390.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0400.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0410.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0420.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0430.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0440.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0450.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0460.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0470.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0480.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0490.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0500.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0510.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0520.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0530.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0540.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0550.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0560.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0570.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0580.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0590.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0600.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0610.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0620.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0630.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0640.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0650.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0660.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0670.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0680.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0690.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0700.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0710.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0720.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0730.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0740.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0750.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0760.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0770.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0780.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0790.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
+ACTION: READDATASET: "/Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/tec_out-0800.plt"
+ACTION: READSTYLESHEET: /Users/fnasiri/Desktop/Desktop/TA/Applied_Computational_Fluid_Dynamics/Cylinder_Re100/streetStyle.sty
+ACTION: ATTACHTEXT
+ACTION: EXPORT
